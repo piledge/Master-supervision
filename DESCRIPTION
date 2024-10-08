@@ -1,0 +1,10 @@
+Package: Master-supervision
+Type: Package
+Title: Repo for code written while supervising some Master-Thesis
+Version: 0.1.0
+Author: piledge
+Maintainer: piledge
+Description: Repo for code written while supervising some Master-Thesis
+License: The Unlicense
+Encoding: UTF-8
+LazyData: true
